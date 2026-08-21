@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Mi Primer Proyecto Git
 ![UNI](assets/unahur.jpg)
 
@@ -19,6 +19,10 @@
 
 # *** Work in progress...***
 
+
 ### *Por ahora eso es todo por acá, en la cursada seguro que charlamos mucho más. Cuidensé, tomen agua y duerman. Chao!!*
 
 ![Pez](assets/Pez%20Tomando%20Cerveza.gif)
+=======
+(ya voy a ir añadiendo muchas más cosas)
+>>>>>>> 453d0dc040b08d704aa5105369fdbf4c39ba0ba2
