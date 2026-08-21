@@ -24,5 +24,4 @@
 
 ![Pez](assets/Pez%20Tomando%20Cerveza.gif)
 =======
-(ya voy a ir añadiendo muchas más cosas)
->>>>>>> 453d0dc040b08d704aa5105369fdbf4c39ba0ba2
+
