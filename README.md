@@ -18,10 +18,10 @@
 ### *Me gustan muchos los juegos estilo roguelike como el dark souls o el the binding of isaac, también salir a caminar y pasear en bici y aprender a cocinar de todo un poco.*
 
 
-# *** Work in progress...***
+# ***Work in progress...***
 
 
-### *Por ahora eso es todo por acá, en la cursada seguro que charlamos mucho más. Cuidensé, tomen agua y duerman. Chao!!*
+### *Por ahora eso es todo por acá, en la cursada seguro que charlamos mucho más. Cuídense, tomen agua y duerman. Chao!!*
 
 ![Pez](assets/Pez%20Tomando%20Cerveza.gif)
 =======
